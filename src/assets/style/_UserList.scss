@@ -1,0 +1,14 @@
+.container-list{
+    text-align:'center';
+    // margin: 0 auto;
+    // background-color: red;
+    .user-preview{
+        display: flex;
+        border: 1px solid black;
+        border-radius: 3px;
+        text-align: center;
+        padding: 5px;
+        width: 60vw;
+        margin: 4px auto;
+    }
+}
